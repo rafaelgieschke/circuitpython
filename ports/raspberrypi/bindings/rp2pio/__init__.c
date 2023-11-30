@@ -30,6 +30,8 @@
 #include "bindings/rp2pio/StateMachine.h"
 #include "bindings/rp2pio/__init__.h"
 
+#include "modrp2.c"
+
 //| """Hardware interface to RP2 series' programmable IO (PIO) peripheral.
 //|
 //| .. note:: This module is intended to be used with the `adafruit_pioasm library
